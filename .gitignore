@@ -1,0 +1,3 @@
+# El signo de Gato permite comentar.
+#Ignorar todos los Docs con terminacion .txt
+*.txt
